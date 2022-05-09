@@ -1,0 +1,22 @@
+{
+  "name": "express-app1",
+  "version": "1.0.0",
+  "description": "expres",
+  "main": "index.js",
+  "scripts": {
+    "test": "express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POOVARASANPARTHIBAN/express-app1.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "poovarasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POOVARASANPARTHIBAN/express-app1/issues"
+  },
+  "homepage": "https://github.com/POOVARASANPARTHIBAN/express-app1#readme"
+}
